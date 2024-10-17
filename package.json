@@ -1,5 +1,5 @@
 {
-  "name": "simple_todo_app
+  "name": "Dockerize_to-do_app",
   "version": "1.0.0",
   "description": "Simple ToDo App",
   "main": "server.js",
